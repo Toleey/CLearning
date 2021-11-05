@@ -1,0 +1,15 @@
+"/Users/toby/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5284.51/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/toby/CLionProjects/Pracitce01
+CMake Warning at /Users/toby/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5284.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Darwin-Initialize.cmake:303 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Users/toby/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.5284.51/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/toby/CLionProjects/Pracitce01/cmake-build-debug

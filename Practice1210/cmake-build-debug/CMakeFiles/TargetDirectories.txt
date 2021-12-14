@@ -1,0 +1,3 @@
+/Users/toby/CLionProjects/Practice1210/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/toby/CLionProjects/Practice1210/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/toby/CLionProjects/Practice1210/cmake-build-debug/CMakeFiles/Practice1210.dir

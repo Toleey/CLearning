@@ -21,21 +21,24 @@ int fun(int n){
 void main() {
 
 
-    int i = 10,j=15,k;
-    k=10* MIN(i,j);
-    printf("%d\n",k);
+//    int i = 10,j=15,k;
+//    k=10* MIN(i,j);
+//    printf("%d\n",k);
 
 //    int x=2;
 //    printf("%d\n", fun(x));
 //    printf("%d\n", fun(x));
 
 
-//    char s[]="china";
-//    char *p=s;
-//    printf("%d\n", strlen(s));
-//    printf("%d\n", sizeof (s));
-//    printf("%d\n", strlen(s));
+    char s[]="china";
+    char *p=s;
+    printf("%d\n", strlen(s));//不一定计\0
+    printf("%d\n", strlen(p));//计算字符串的长度
+
+//    printf("%d\n", sizeof 8 (s));//算\0全部所占空间 定义数组后可以用sizeof命令获得数组的长度
 //    printf("%d", sizeof (p));
+
+    //字符数组的长度算上\0，字符串的长度遇到\0结束 不算\0
 
 
 //    char A[]={"I am a student"};
